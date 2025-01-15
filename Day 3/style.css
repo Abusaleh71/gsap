@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+    background-color: black;
+}
+#string{
+    background-color: darkblue;
+    width: 1000px;
+    height: 200px;
+}

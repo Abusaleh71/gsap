@@ -1,3 +1,5 @@
+
+
 1. GSAP used for animate elements
 2. ScrollTrigger used for animate elements on basis of scrolling
 properties of scrollTrigger
